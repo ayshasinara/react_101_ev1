@@ -1,0 +1,8 @@
+.taskApp {
+  margin: auto;
+  width: 30%;
+  height: 500px;
+  /* border: 1px red solid; */
+  background-color: white;
+  border-radius: 5%;
+}
